@@ -163,7 +163,7 @@ stats==0.1.2a0
 sudospawner==0.5.2
 system-service==0.3
 tensorboard==1.11.0
-tensorflow-gpu==1.11.0
+tensorflow-gpu==1.15.2
 tensorflow-hub==0.1.1
 termcolor==1.1.0
 terminado==0.8.1
