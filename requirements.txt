@@ -137,7 +137,7 @@ QtAwesome==0.4.4
 qtconsole==4.3.1
 QtPy==1.4.2
 regex==2017.4.5
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.19.1
 rope==0.10.7
 s3transfer==0.1.13
